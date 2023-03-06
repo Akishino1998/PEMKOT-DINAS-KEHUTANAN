@@ -1,0 +1,1 @@
+semua dipindah pada masing masing
