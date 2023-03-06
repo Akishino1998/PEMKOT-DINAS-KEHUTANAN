@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/u1429960/public_html
-    - /bin/cp -r * $DEPLOYPATH/servis
+    - /bin/cp -r * $DEPLOYPATH/kehutanan.owafs.id
